@@ -20,5 +20,5 @@ This project is made as part of **CodeAlpha Internship Program**.
 ## Installation
 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/Stock-Portfolio-Tracker.git
-cd Stock-Portfolio-Tracker
+git clone https://github.com/sg0188948-prog/codealpha_Stock-Portfolio-Tracker.git
+cd codealpha_Stock-Portfolio-Tracker
